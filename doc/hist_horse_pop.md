@@ -1,7 +1,7 @@
 ## Aim
 
 This project explores the historical population of horses in Canada
-between 1906 and 1972 for each Province. c
+between 1906 and 1972 for each Province.
 
 ## Data
 
