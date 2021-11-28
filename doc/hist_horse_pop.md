@@ -3,7 +3,7 @@
 This project explores the historical population of horses in Canada
 between 1906 and 1972 for each Province.
 
-c ## Data
+## Data
 
 Horse population data were sourced from the [Government of Canada’s Open
 Data website](http://open.canada.ca/en/open-data). Specifically, these
